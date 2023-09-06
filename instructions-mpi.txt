@@ -8,4 +8,4 @@ make help
 
 After compilation the program is readt to run, to run on Dardel, allocate desired amount of CPU resourses and lauch the program via:
 
-srun -n <number of mpi processes> -u ./energy_storms_mpi <array size> <test file 1> ... <test file n>
+srun -n <number of mpi processes> -u ./energy_storms_mpi <array size> <test file 1> ... <test file n> 
